@@ -9,10 +9,10 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://laurenpv85.github.io 
+#url: https://collectionbuilder.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /Unexpected-Collections 
+#baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
 source-code: https://github.com/laurenpv85/Unexpected-Collections
 
@@ -20,12 +20,12 @@ source-code: https://github.com/laurenpv85/Unexpected-Collections
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Chocolates Juncosa
+title: Chocolates Juncosa 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description:"Collection of Chocolates wraps relative to the last part of the Cuban-American War at the end of  XIX Century"
+description: "Collection of Chocolates wraps relative to the last part of the Cuban-American War at the end of  XIX Century"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Lauren Peña
 
@@ -34,7 +34,7 @@ author: Lauren Peña
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata:chocolates_juncosa1
+metadata: chocolates_juncosa1 
 
 ##########
 # GOOGLE SERVICES [optional!]
@@ -50,7 +50,7 @@ metadata:chocolates_juncosa1
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
- noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
