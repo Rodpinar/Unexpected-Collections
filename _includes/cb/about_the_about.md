@@ -1,5 +1,5 @@
 {% assign imagesample = site.data[site.metadata] | where_exp: 'item','item.format contains "image"' | first %}
-{% capture imagesampleid %}{{imagesample.objectid | default: "https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg"}}{% endcapture %}
+{% capture imagesampleid %}{{imagesample.objectid | default: "https://github.com/laurenpv85/Unexpected-Collections/blob/main/objects/juncosa_029a.jpg"}}{% endcapture %}
 {% assign pdfsample = site.data[site.metadata] | where_exp: 'item','item.format contains "pdf"' | first %}
 {% capture pdfsampleid %}{{pdfsample.objectid | default: "https://digital.lib.uidaho.edu/utils/getfile/collection/ui_ep/id/21768/filename/uiext21768.pdf"}}{% endcapture %}
 {% assign videosample = site.data[site.metadata] | where_exp: 'item','item.format contains "video"' | first %}
