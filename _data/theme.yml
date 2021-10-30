@@ -19,8 +19,11 @@ home-banner-image-position: center
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
 browse-buttons: true # true/false, adds previous/next arrows to item pages
-#### ABOUT PAGE
-about-featured-image :juncosa_029a.jpg
+#########
+# ABOUT PAGE
+#
+about-featured-image :juncosa_029a
+
 ##########
 # SUBJECTS PAGE
 #
