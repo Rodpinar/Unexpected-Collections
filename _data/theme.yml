@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: juncosa_intro
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding:5em
+home-title-y-padding: 5em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center
 
@@ -54,7 +54,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 ##########
 # TIMELINE PAGE
 #
-year-navigation: "1890;1895" # set years to appear in dropdown nav, leave blank to auto gen
+year-navigation: "1890;1910" # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 1 # set increments when auto gen nav years
 
 ##########
