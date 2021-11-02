@@ -22,7 +22,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 #########
 # ABOUT PAGE
 #
-about-featured-image :juncosa_029a
+about-featured-image : juncosa_029a
 
 ##########
 # SUBJECTS PAGE
