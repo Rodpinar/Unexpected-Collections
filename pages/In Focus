@@ -1,0 +1,5 @@
+title: In Focus
+layout: In Focus
+permalink: /In Focus.html
+-----------------
+{% include feature/image.html objectid="" width="50" %}
