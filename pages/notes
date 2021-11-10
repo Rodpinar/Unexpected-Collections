@@ -1,0 +1,7 @@
+---
+title: Notes
+layout: page
+permalink: /notes.html
+---
+{% include feature/image.html objectid="juncosa_031a" %}
+*Tets of Image Include*
