@@ -1,6 +1,6 @@
 ---
 title: In Focus
-layout: pages
+layout: page
 permalink: /InFocus.html
 ---
  {% include feature/nav-menu.html sections="Introduction;Perspective and Truth; Pan_Caribbean Connections; Selling a War;Bibliography" %}
