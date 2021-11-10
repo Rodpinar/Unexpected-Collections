@@ -1,7 +1,7 @@
 ---
 title: In Focus
 layout: page
-permalink: /InFocus.html
+permalink: /infocus.html
 ---
  {% include feature/nav-menu.html sections="Introduction;Perspective and Truth; Pan_Caribbean Connections; Selling a War;Bibliography" %}
  ## Introduction
