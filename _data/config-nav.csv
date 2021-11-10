@@ -1,9 +1,14 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-In Focus,/InFocus.html
+In Focus,,
+Introduction,/InFocus.html,In Focus
+Perspective and Truth,/InFocus.html,In Focus
+Pan-Caribbean Connections,/InFocus.html,In Focus
+Selling a War,/InFocus.html,In Focus
 Notes,/Notes.html
 Map,/map.html
+Locations,/locations.html
 Timeline,/timeline.html
 Data,/data.html
 About,/about.html
