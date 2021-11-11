@@ -3,7 +3,7 @@ title: Pan-Caribbean Connections
 layout: about
 permalink: /pan-caribbean-connections.html
 ---
-**Pan-Caribbean Connections**
+# Pan-Caribbean Connections
 
 
 The Spanish Empire considered Cuba its most precious possession in the Caribbean, not only for its strategic location but also for its sugar plantations. After the Haitian Revolution (1791-1804) Cuba became the paragon of sugar production and a bastion of slavery and colonial rule. 
