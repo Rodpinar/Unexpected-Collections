@@ -3,7 +3,7 @@ title: Selling a War
 layout: about
 permalink: /selling-a-war.html
 ---
-**Selling a War**
+# Selling a War
 
 “Remember the Maine! And don’t forget the starving Cubans!” and “Remember the Maine--to hell with Spain!” were common rallying cries in American newspapers, political cartoons, and magazines in the aftermath of the sinking of the USS Maine in Havana Harbor, on February 15th, 1898. Newspapers tycoons and publishers William Randolph Hearst and Joseph Pulitzer quickly accused Spain of the sinking and set in motion the public opinion in favor of military intervention. Many of those newspapers and political cartoons failed to mention that the USS Maine’s mission in Cuba, was neither altruistic nor unsolicited, its mission was to safeguard American property and investments during the Cuban War of Independence (1895-1898). Such a heavy military presence in Havana Harbor not only ensured the protection of the American economic interests but also materialized the Monroe Doctrine and propelled the role of the United States as a world power. 
 {% include feature/image.html objectid="juncosa_029a" width="50" caption=false %}
