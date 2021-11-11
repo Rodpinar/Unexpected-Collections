@@ -3,7 +3,7 @@ title: Perspective and Truth
 layout: about
 permalink: /perspective-and-truth.html
 ---
-**Perspective and Truth**
+# Perspective and Truth
 
 If one looks at these images without knowing the history, one might think that Spain won the war. The majority of the trade cards depict the Spaniards at the forefront, in a dignified, and victorious way. Whereas the Cubans are presented in a rudimentary manner, without distinguishing features, always in the run, injured, or defeated, and racialized subjects. If we look at the language used in the description at the bottom of each card, we can notice a common pattern when it comes to referencing the Cuban rebels.
 {% include feature/image.html objectid="juncosa_018a" width="75" caption=false %}
