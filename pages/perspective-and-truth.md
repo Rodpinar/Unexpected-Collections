@@ -11,9 +11,9 @@ One word, in particular, is repeated throughout the cards, the word cabecilla (r
 
 {% include feature/image.html objectid="juncosa_003a" width="75" caption=false %}
 
-{% include feature/image.html objectid="juncosa_005a;juncosa_009a;juncosa_014a;juncosa_022a width="75" caption=false %}
+{% include feature/image.html objectid="juncosa_005a;juncosa_009a;juncosa_014a;juncosa_022a" width="75" caption=false %}
 
-{% include feature/image.html objectid=juncosa_023a;juncosa_024a;juncosa_025a;juncosa_026a width="75" caption=false %}
+{% include feature/image.html objectid=juncosa_023a;juncosa_024a;juncosa_025a;juncosa_026a" width="75" caption=false %}
 
 {% include feature/image.html objectid=juncosa_027a;juncosa_028a" width="75" caption=false %}
 
