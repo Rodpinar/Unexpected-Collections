@@ -13,9 +13,9 @@ One word, in particular, is repeated throughout the cards, the word cabecilla (r
 
 {% include feature/image.html objectid="juncosa_005a;juncosa_009a;juncosa_014a;juncosa_022a" width="75" caption=false %}
 
-{% include feature/image.html objectid=juncosa_023a;juncosa_024a;juncosa_025a;juncosa_026a" width="75" caption=false %}
+{% include feature/image.html objectid="juncosa_023a;juncosa_024a;juncosa_025a;juncosa_026a" width="75" caption=false %}
 
-{% include feature/image.html objectid=juncosa_027a;juncosa_028a" width="75" caption=false %}
+{% include feature/image.html objectid="juncosa_027a;juncosa_028a" width="75" caption=false %}
 
 Another diminishing word used to describe the rebels’ actions is *filibustero (filibuster)*. This type of language presented the idea that the war in Cuba was an affair of pillage, piracy, and bandits. 
 Against this representation of the war, and keeping in mind that a ‘rudimentary’ enemy fought against Spain for ten years first, and then after a peace treaty and unfruitful strifes, the war began again for three more years, it is fascinating to consider how differently this war looked from the Cubans’ perspective. The Guerra Necesaria (1895-1898), as Cuba’s National Hero José Martí (1853-1895) baptized it, saw the remarkable organization of the Cubans inside and outside (mainly in the U.S) the island, the close collaboration with other Caribbean leaders, and the amazing fundraising for the financing of the war. 
