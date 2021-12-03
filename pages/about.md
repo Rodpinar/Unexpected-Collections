@@ -14,5 +14,3 @@ credits: true
 
 ## About the Collection
 Collection of 36 chromo trade cards  produced by Spanish company *Chocolates E. Juncosa*. The cards depict the Cuban War of Independence (1895-1898) and the beginning of the Spanish-American War
-
-{% include cb/about_the_about.md %} 
